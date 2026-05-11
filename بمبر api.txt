@@ -6333,3 +6333,53 @@ http://reg.lenovo.com.cn/captcha/canSend?mobile=%s
 http://www.wfggw.com/getcode.asp?num=%s
 http://www.shoujibao.uni-info.com.cn/send_register_verify.action?register_customer_name=%s
 ................................................................................................................................
+Request URL
+https://web.igap.net/assets/prompt-DlywERXg.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+89.45.51.103:443
+Referrer Policy
+strict-origin-when-cross-origin
+Request URL
+https://web.igap.net/assets/Portal-BdH54BPW.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+89.45.51.103:443
+Referrer Policy
+strict-origin-when-cross-origin
+Request URL
+https://web.igap.net/assets/login.code.container-BBx8SLxU.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+89.45.51.103:443
+Referrer Policy
+strict-origin-when-cross-origin
+Request URL
+https://web.igap.net/assets/IRANSansX-Bold-CBYBdDJ3.woff
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+89.45.51.103:443
+Referrer Policy
+strict-origin-when-cross-origin
+Request URL
+https://web.igap.net/assets/HandleHeartBeatResponse-htLWCXKo.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+89.45.51.103:443
+Referrer Policy
+strict-origin-when-cross-origin
