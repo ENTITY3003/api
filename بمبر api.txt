@@ -6333,6 +6333,14 @@ http://reg.lenovo.com.cn/captcha/canSend?mobile=%s
 http://www.wfggw.com/getcode.asp?num=%s
 http://www.shoujibao.uni-info.com.cn/send_register_verify.action?register_customer_name=%s
 ................................................................................................................................
+اولhttps://paneladmin.shabdizgroup.com/api/App/RequestVerifyCodeدومیhttps://pitzakhooneh.ir/Account/FoodPhoneNumberVerification/سومیhttps://api.faradars.org/api/client/v1/auth/otpچهارمیhttps://api.shab.ir/api/fa/sandbox/v_1_4/auth/login-otpچنجمیhttps://api.shab.ir/api/fa/sandbox/v_1_4/auth/login-otpششمیhttps://api.mohit.online/api/auth/loginهفتمیhttps://melico.ir/auth/check-userهشتمیhttps://account.api.balad.ir/api/web/auth/login/نهمیhttps://www.vitrin.shop/api/v1/user/request_codeدهمیhttps://www.vitrin.shop/api/v1/user/request_codeیازدهمیhttps://api.ibime.com/web/v1/account/otpدوازدهمیhttps://api.ibime.com/web/v1/account/otpسیزدهمیhttps://lend-b.dgshahr.com/user/login/چهاردهمیhttps://accounts-api.tapsi.ir/api/v1/sso-user/authپانزدهمیhttps://mobapi.banimode.com/api/v2/auth/requestو اینا هم کال ✅ سرویس‌های Call در فایل دوم:
+Tetherland Call
+Endpoint: https://service.tetherland.com/api/v5/login-register
+با پارامتر: "otp_type": "call"
+Digikala Call
+Endpoint: https://api.digikala.com/v1/user/authenticate/
+با پارامتر: "otp_call": true
+...............................................................................................
 Request URL
 https://web.igap.net/assets/prompt-DlywERXg.js
 Request Method
